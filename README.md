@@ -10,9 +10,15 @@ operate this software with ease.
 # Features
 
 -> UI for convenient usage.
+
 -> Summarize any kind of video, audio or text.
+
 -> Summarization can be done using various algos. like TextRank, LexRank, Luhn or LSA.
+
 -> Does Speech Recognition to get the text out of video.
+
 -> Can even extract text from images using OCR.
+
 -> Output can be in audio format which help people who face difficulty in reading.
 
+# Steps involved and Approach
